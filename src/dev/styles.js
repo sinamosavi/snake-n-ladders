@@ -124,5 +124,9 @@ export const styles = {
         marginTop: 16,
         fontSize: 12,
         color: '#ccc'
+    },
+    gridStyle: {
+        outline: 20,
+        color: '#000'
     }
 };
